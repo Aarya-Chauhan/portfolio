@@ -15,7 +15,7 @@
   - Apr 2018 - Apr 2019
 
 ## Skills
-<p align="left">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -46,7 +46,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-</p>
+
 
 ## Projects
 ### [Crystal-Ball]
@@ -56,19 +56,14 @@
 - **Technical Stacks:** Python, Streamlit, React.js, Profiling tools such as ydata profiling, 
 
 ### [Fake-Chat] 
-#### [Source Code]
 *Jan 2023 - Mar 2023*
-- Crafted a user-centric rental web app that significantly enhances convenience by making it 40% easier and quicker to search for houses.
-- This website facilitates direct owner communication, eliminating third-party involvement, saving users 30% in fees.
-- **Technical Stacks:** TypeScript, Next.js, Zustad, Tailwind CSS, NextAuth, and PostgreSQL.
+- Chat-Bot Training Framework based on Transformers(Microsoft DialoGPT) and Deep Learning, which can be used to train chatbots for various applications.
+- **Technical Stacks:** Python, NLP, DialoGPT, Transformers.
 
 ### [Crowd Analysis and Monitoring]
-#### [Source Code]
 *Aug 2022 - Oct 2022*
-- An expansive e-commerce web app, offering over 50 products, ensures seamless online browsing and secure, efficient purchasing.
-- Implemented the Stripe API for 100% secure payments, efficiently stored data in local storage, and delivered a modern interface design.
-- Revamped web app filters seamlessly integrate category, price, sorting, rating, and gender, yielding a 40% increase in user engagement.
-- **Technical Stacks:** React.js, Redux, CSS3, JavaScript, Firebase, and Stripe API.
+- A project which aims to monitor feeds from CCTV cameras at public places to smartly monitor and analyze crowd size and movements using computer vision.
+- **Technical Stacks:** Python, OpenCV.
 
 
 
