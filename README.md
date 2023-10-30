@@ -68,8 +68,7 @@
 
 
 ## Achievements
-- **[Coding](https:/):** 300+ problems solved on various online coding platforms and achieved a 100-day coding badge on Leetcode.
-- **[Blogs](https://thetechnopaths.blogspot.com/):** Authored 5 informative blogs focusing on Blockchain technology and Computer Networks.
+- **[Coding](https://leetcode.com/aarya_chauhan/):** 200+ problems solved on various online coding platforms and achieved a 100-day coding badge on Leetcode.
 - **Open Source:** Actively contribute to various open-source projects, collaborating with developers to make meaningful contributions.
 - **Cloud computing:** Learning AWS, shell scripting, and CI/CD for proficient cloud computing and software delivery skills.
 
