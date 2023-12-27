@@ -10,4 +10,4 @@ description: >
   <a href="mailto:aaryachauhan11@gmail.com">
     ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)
   </a>
-theme: jekyll-time-machine@v0.2.0
+theme: pages-themes/time-machine@v0.2.0
