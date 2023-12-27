@@ -5,9 +5,9 @@ description: >
   Full Stack | Frontend Engineer
   <br>
   <a href="https://www.linkedin.com/in/aarya-chauhan/">
-    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:aaryachauhan11@gmail.com">
-    ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)
+    <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 remote_theme: pages-themes/time-machine@v0.2.0
