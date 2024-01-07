@@ -49,8 +49,8 @@
 ### [Crystal-Ball]
 #### [Source Code](https://github.com/Aarya-Chauhan/Crystall_Ball)
 *Jul 2023 - Present*
-- Crafted a user-friendly site for people like Buisness Executives and Managers,Data Scientists, Educationsists and healthcare professionals, etc to gather insights without actully training the prediction models.
-- **Technical Stacks:** Python, Streamlit, React.js, Profiling tools such as ydata profiling, 
+- Crafted a user-friendly site for people like Business Executives and Managers, Data Scientists, Educationists, healthcare professionals, etc to gather insights without training the prediction models.
+- **Technical Stacks:** Python, Streamlit, React.js, Profiling tools such as y-data profiling, 
 
 ### [Fake-Chat] 
 *Jan 2023 - Mar 2023*
@@ -59,7 +59,7 @@
 
 ### [Crowd Analysis and Monitoring]
 *Aug 2022 - Oct 2022*
-- A project which aims to monitor feeds from CCTV cameras at public places to smartly monitor and analyze crowd size and movements using computer vision.
+- A project that aims to monitor feeds from CCTV cameras at public places to smartly monitor and analyze crowd size and movements using computer vision.
 - **Technical Stacks:** Python, OpenCV.
 
 
